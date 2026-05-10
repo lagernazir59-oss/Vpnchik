@@ -1,0 +1,4 @@
+#profile-title: Nazir VPN
+#announce: Данный впн изобрел Маликов Назир из 5 роты
+#subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
+vless://a0387548-a96b-4b06-b498-983b9296a0ba@51.250.79.155:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=-K3BPYMYFhjBb_npLkLh9re5pdYUYNGtFI4UOklRsQc&sid=62a5c123d5#%F0%9F%87%B7%F0%9F%87%BALTE%20%201%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%9D%D0%90%D0%97%D0%98%D0%A0%20VPN
